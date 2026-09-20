@@ -26,8 +26,4 @@ I publish open work under [RunTimeAdmin](https://github.com/RunTimeAdmin). Longe
 
 Site for Sigvara: [sigvara.xyz](https://sigvara.xyz).
 
-## Reviewer notes
 
-- Prefer **pinned + table above** over the full repo list. Older one-off experiments are archived when they are not part of the active thesis.
-- Token / bond asset policy for Sigvara lives only in [`Sigvara/docs/token.md`](https://github.com/RunTimeAdmin/Sigvara/blob/main/docs/token.md) and on sigvara.xyz — nowhere else first.
-- Contact: `david@runtimeadmin.com`
