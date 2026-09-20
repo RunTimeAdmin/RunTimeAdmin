@@ -26,4 +26,4 @@ I publish open work under [RunTimeAdmin](https://github.com/RunTimeAdmin). Longe
 
 Site for Sigvara: [sigvara.xyz](https://sigvara.xyz).
 
-
+Contact: `david@runtimeadmin.com`
