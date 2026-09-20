@@ -4,7 +4,7 @@
 
 I publish open work under [RunTimeAdmin](https://github.com/RunTimeAdmin). Longer background and essays: [protocol14019.com](https://protocol14019.com). Tooling hub: [runtimeadmin.com](https://runtimeadmin.com). On X: [@defiauditccie](https://x.com/defiauditccie).
 
-> This GitHub account is relatively new as a *public publishing* surface. The career behind the CCIE / ops work is not. If you are reviewing a release, start with the active products below — not every archived experiment.
+
 
 ## What to look at first
 
