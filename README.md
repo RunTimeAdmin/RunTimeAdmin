@@ -1,6 +1,6 @@
 # David Cooper (`DC`)
 
-**CCIE #14019** · USAF veteran · building security tooling for networks, software supply chains, and autonomous agents.
+**CCIE #14019** · building security tooling for networks, software supply chains, and autonomous agents.
 
 I publish open work under [RunTimeAdmin](https://github.com/RunTimeAdmin). Longer background and essays: [protocol14019.com](https://protocol14019.com). Tooling hub: [runtimeadmin.com](https://runtimeadmin.com). On X: [@defiauditccie](https://x.com/defiauditccie).
 
