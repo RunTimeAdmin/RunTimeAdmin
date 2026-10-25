@@ -1,4 +1,4 @@
-# David Cooper (`DC`)
+# David C (`DC`)
 
 **CCIE #14019** · building security tooling for networks, software supply chains, and autonomous agents.
 
