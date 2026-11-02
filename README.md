@@ -2,7 +2,7 @@
 
 **CCIE #14019** · building trust and security tooling for autonomous agents, software supply chains and networks.
 
-Tooling hub: [runtimeadmin.com](https://runtimeadmin.com) · Background and essays: [protocol14019.com](https://protocol14019.com) · On X: [@defiauditccie](https://x.com/defiauditccie)
+Tooling hub: [runtimeadmin.com](https://runtimeadmin.com) ·  On X: [@defiauditccie](https://x.com/defiauditccie)
 
 ## What I'm building
 
