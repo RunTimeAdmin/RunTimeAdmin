@@ -3,7 +3,7 @@
 **CCIE #14019** · building trust and security tooling for autonomous agents, software supply chains and networks.
 
 Tooling hub: [runtimeadmin.com](https://runtimeadmin.com) ·  On X: [@defiauditccie](https://x.com/defiauditccie)
-
+        “Infrastructure Intel (my security news site)”  https://infrastructureintel.io/
 ## What I'm building
 
 Tools for deciding whether to trust an AI agent before you pay it or rely on it.
